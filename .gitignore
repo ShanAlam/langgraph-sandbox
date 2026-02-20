@@ -9,5 +9,8 @@ wheels/
 # Virtual environments
 .venv
 
+# Env
+.env
+
 # macOS Finder metadata
 .DS_Store
